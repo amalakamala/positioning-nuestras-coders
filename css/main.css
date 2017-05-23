@@ -1,33 +1,8 @@
 /* Inserta tu código aqui */
-body{
-	font-family: 'Roboto Mono', monospace;
-}
+
 
 .coders{
-	-webkit-filter: opacity(0.8); /* 0.5 = 50% */ 
+	-webkit-filter: opacity(0.8);  
 	filter: opacity(0.8);
 }
 
-.alumna-1{
-	background-image: url(../img/profile-6.png);	
-}
-
-.alumna-2{
-	background-image: url(../img/profile-1.png);	
-}
-
-.alumna-3{
-	background-image: url(../img/profile-2.png);		
-}
-
-.alumna-4{
-	background-image: url(../img/profile-3.png);		
-}
-
-.alumna-5{
-	background-image: url(../img/profile-4.png);	
-}
-
-.alumna-6{
-	background-image: url(../img/profile-5.png);		
-}
